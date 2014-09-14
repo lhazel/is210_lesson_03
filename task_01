@@ -1,0 +1,66 @@
+Python 2.7.8 (default, Jun 30 2014, 16:03:49) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie "in the house"
+Where is Stevie?>>> house
+>>> Question_01
+
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    Question_01
+NameError: name 'Question_01' is not defined
+>>> QUESTION_01
+' house'
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie? In the house.
+Where is Stevie?>>>In the house.
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie? In the house.
+>>> QUESTION_01 = raw_input("Where is Stevie? ")
+Where is Stevie? 
+>>> ================================ RESTART ================================
+>>> 
+Where is Stevie? 
+>>> ================================ RESTART ================================
+>>> 
+How old is Stevie? 5
+>>> QUESTION_01 = raw_input( " How old is Stevie?")
+ How old is Stevie?
+>>> QUESTION_01
+''
+>>> 
+>>> raw_input('How old is Stevie? ')
+How old is Stevie? 5
+'5'
+>>> QUESTION_01 =raw_input('How old is Stevie? ')
+How old is Stevie? 5
+>>> QUESTION_01
+'5'
+>>> 
